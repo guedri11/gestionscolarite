@@ -5,11 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="75b1ff13-443b-4087-87fb-f2782d6ff83d" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/.classpath" beforeDir="false" afterPath="$PROJECT_DIR$/.classpath" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Actions/Prepare.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Actions/Prepare.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Classes/Utilisateur.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Classes/Utilisateur.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -43,7 +40,7 @@
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "WebServerToolWindowFactoryState": "false",
-    "git-widget-placeholder": "main",
+    "git-widget-placeholder": "master",
     "ignore.virus.scanning.warn.message": "true",
     "last_opened_file_path": "C:/Users/Nour.Tabib/Desktop/Root/Projet/projetFederateurF/src/interfacesBD",
     "node.js.detected.package.eslint": "true",
@@ -84,9 +81,37 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="MyLogin" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="view.MyLogin" />
+      <module name="projetFederateurF" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="view.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="PlanifierUnCours" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="view.PlanifierUnCours" />
+      <module name="projetFederateurF" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="view.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
         <item itemvalue="Application.MyHomePage" />
+        <item itemvalue="Application.MyLogin" />
+        <item itemvalue="Application.PlanifierUnCours" />
         <item itemvalue="Application.AjouterGroupe" />
       </list>
     </recent_temporary>
@@ -123,6 +148,7 @@
       <workItem from="1677091567499" duration="7000" />
       <workItem from="1684410423660" duration="86000" />
       <workItem from="1684410541543" duration="2058000" />
+      <workItem from="1684412999294" duration="878000" />
     </task>
     <servers />
   </component>
