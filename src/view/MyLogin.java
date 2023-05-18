@@ -118,9 +118,9 @@ public class MyLogin extends JFrame implements AccesBDUtilisateur {
 		lblNewLabel_4.setFont(new Font("Tahoma", Font.BOLD, 14));
 		lblNewLabel_4.setBounds(195, 126, 228, 22);
 		contentPane.add(lblNewLabel_4);
-		
+
 		JLabel lblNewLabel_5 = new JLabel("");
-		lblNewLabel_5.setIcon(new ImageIcon("C:\\Users\\Nour.Tabib\\Desktop\\logopi.png"));
+		lblNewLabel_5.setIcon(new ImageIcon("C:\\Users\\GUEDRI\\Desktop\\logopi.jpg"));
 		lblNewLabel_5.setBounds(10, 11, 205, 49);
 		contentPane.add(lblNewLabel_5);
 	}

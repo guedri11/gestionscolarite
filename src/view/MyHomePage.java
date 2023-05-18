@@ -1,7 +1,6 @@
  package view;
 
-import java.awt.BorderLayout;
-import java.awt.EventQueue;
+import java.awt.*;
 
 import javax.swing.JFrame;
 import javax.swing.JPanel;
@@ -10,8 +9,6 @@ import javax.swing.JButton;
 import java.awt.event.ActionListener;
 import java.awt.event.ActionEvent;
 import javax.swing.JLabel;
-import java.awt.Font;
-import java.awt.Color;
 import javax.swing.ImageIcon;
 
 public class MyHomePage extends JFrame {
@@ -115,14 +112,18 @@ public class MyHomePage extends JFrame {
 		btnNewButton_6.setBounds(147, 502, 133, 37);
 		contentPane.add(btnNewButton_6);
 		
-		JLabel lblNewLabel = new JLabel("Bienvevue Sur Pi-APP");
+		JLabel lblNewLabel = new JLabel("Bienvenue Sur Pi-APP");
 		lblNewLabel.setForeground(new Color(220, 20, 60));
 		lblNewLabel.setFont(new Font("Tahoma", Font.BOLD, 18));
 		lblNewLabel.setBounds(111, 22, 243, 26);
 		contentPane.add(lblNewLabel);
-		
+
 		JLabel lblNewLabel_1 = new JLabel("");
-		lblNewLabel_1.setIcon(new ImageIcon("C:\\Users\\alaal\\Desktop\\logopi - Copy.png"));
+		ImageIcon imageIcon = new ImageIcon("C:\\Users\\GUEDRI\\Desktop\\logopi.jpg");
+		Image image = imageIcon.getImage();
+		Image resizedImage = image.getScaledInstance(62, 47, Image.SCALE_SMOOTH);
+		ImageIcon resizedIcon = new ImageIcon(resizedImage);
+		lblNewLabel_1.setIcon(resizedIcon);
 		lblNewLabel_1.setBounds(10, 10, 62, 47);
 		contentPane.add(lblNewLabel_1);
 	}
