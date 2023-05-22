@@ -1,6 +1,5 @@
 package view;
 
-import java.awt.BorderLayout;
 import java.awt.EventQueue;
 
 import javax.swing.JFrame;
@@ -10,7 +9,7 @@ import javax.swing.JButton;
 import java.awt.event.ActionListener;
 import java.awt.event.ActionEvent;
 
-public class GestionDesEnseignement extends JFrame {
+public class AdministrationPedagojique extends JFrame {
 
 	private JPanel contentPane;
 
@@ -21,7 +20,7 @@ public class GestionDesEnseignement extends JFrame {
 		EventQueue.invokeLater(new Runnable() {
 			public void run() {
 				try {
-					GestionDesEnseignement frame = new GestionDesEnseignement();
+					AdministrationPedagojique frame = new AdministrationPedagojique();
 					frame.setVisible(true);
 				} catch (Exception e) {
 					e.printStackTrace();
@@ -33,7 +32,7 @@ public class GestionDesEnseignement extends JFrame {
 	/**
 	 * Create the frame.
 	 */
-	public GestionDesEnseignement() {
+	public AdministrationPedagojique() {
 		setDefaultCloseOperation(JFrame.EXIT_ON_CLOSE);
 		setBounds(100, 100, 797, 631);
 		contentPane = new JPanel();

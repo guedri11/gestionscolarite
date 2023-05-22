@@ -15,8 +15,8 @@ import Classes.Cours;
 import Classes.Etudiant;
 
 public interface AccesBDAbscences {
-	String URL = "jdbc:mysql://localhost/polyechintl" ;
-	String Driver = "com.mysql.jdbc.Driver" ;
+	String URL = "jdbc:mysql://localhost/gestionpi" ;
+	String Driver = "com.mysql.cj.jdbc.Driver" ;
 	String Login = "root" ;
 	String Password = "" ;
 	static void ModifierAbscences(Absences Abs) throws SQLException,ClassNotFoundException{

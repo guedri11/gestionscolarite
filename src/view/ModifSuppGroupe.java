@@ -190,8 +190,15 @@ public class ModifSuppGroupe extends JFrame {
 		});
 		btnNewButton_1.setBounds(10, 431, 89, 23);
 		contentPane.add(btnNewButton_1);
-		
+
 		JButton btnNewButton_2 = new JButton("Retour");
+		btnNewButton_2.addActionListener(new ActionListener() {
+			public void actionPerformed(ActionEvent e) {
+				GestionsDesGroupe Obj = new GestionsDesGroupe();
+				setVisible(false);
+				Obj.setVisible(true);
+			}
+		});
 		btnNewButton_2.setBounds(26, 22, 89, 23);
 		contentPane.add(btnNewButton_2);
 		

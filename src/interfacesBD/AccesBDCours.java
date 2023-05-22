@@ -15,8 +15,8 @@ import Classes.Groupe;
 import Classes.Matiere;
 
 public interface AccesBDCours extends AccesBDEnseignant,AccesBDMatiere,AccesBDGroupe{
-	String URL = "jdbc:mysql://localhost/polyechintl" ;
-	String Driver = "com.mysql.jdbc.Driver" ;
+	String URL = "jdbc:mysql://localhost/gestionpi" ;
+	String Driver = "com.mysql.cj.jdbc.Driver" ;
 	String Login = "root" ;
 	String Password = "" ;
 	static List<Cours> getCoursByIDEns(int ID) throws SQLException,ClassNotFoundException  {

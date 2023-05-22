@@ -13,8 +13,8 @@ import Classes.Login;
 import Classes.Utilisateur;
 
 public interface AccesBDUtilisateur {
-	String URL = "jdbc:mysql://localhost/polyechintl" ;
-	String Driver = "com.mysql.jdbc.Driver" ;
+	String URL = "jdbc:mysql://localhost/gestionpi" ;
+	String Driver = "com.mysql.cj.jdbc.Driver" ;
 	String Login = "root" ;
 	String Password = "" ;
 	static void AjouterUtilisateur(Utilisateur User) throws SQLException,ClassNotFoundException {

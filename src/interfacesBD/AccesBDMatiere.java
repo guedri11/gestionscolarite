@@ -12,8 +12,8 @@ import java.util.List;
 import Classes.Matiere;
 
 public interface AccesBDMatiere {
-	String URL = "jdbc:mysql://localhost/polyechintl" ;
-	String Driver = "com.mysql.jdbc.Driver" ;
+	String URL = "jdbc:mysql://localhost/gestionpi" ;
+	String Driver = "com.mysql.cj.jdbc.Driver" ;
 	String Login = "root" ;
 	String Password = "" ;
 	static Matiere getMatiereByID(int ID) throws SQLException,ClassNotFoundException {

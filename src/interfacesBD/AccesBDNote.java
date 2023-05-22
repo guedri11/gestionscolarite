@@ -14,8 +14,8 @@ import Classes.Matiere;
 import Classes.Note;
 
 public interface AccesBDNote extends AccesBDEtudiant,AccesBDMatiere {
-	String URL = "jdbc:mysql://localhost/polyechintl" ;
-	String Driver = "com.mysql.jdbc.Driver" ;
+	String URL = "jdbc:mysql://localhost/gestionpi" ;
+	String Driver = "com.mysql.cj.jdbc.Driver" ;
 	String Login = "root" ;
 	String Password = "" ;
 	static void AjouterNote(Note Note) throws SQLException,ClassNotFoundException {

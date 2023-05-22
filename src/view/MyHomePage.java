@@ -89,11 +89,13 @@ public class MyHomePage extends JFrame {
 		btnNewButton_4.setFont(new Font("Tahoma", Font.BOLD, 14));
 		btnNewButton_4.setBounds(90, 326, 264, 58);
 		contentPane.add(btnNewButton_4);
-		
-		JButton btnNewButton_5 = new JButton("Gestions De l'Enseignement");
+
+		JButton btnNewButton_5 = new JButton("Administration Pedagojique ");
 		btnNewButton_5.addActionListener(new ActionListener() {
 			public void actionPerformed(ActionEvent e) {
-				
+				AdministrationPedagojique Obj=new AdministrationPedagojique();
+				setVisible(false);
+				Obj.setVisible(true);
 			}
 		});
 		btnNewButton_5.setFont(new Font("Tahoma", Font.BOLD, 14));
@@ -112,7 +114,7 @@ public class MyHomePage extends JFrame {
 		btnNewButton_6.setBounds(147, 502, 133, 37);
 		contentPane.add(btnNewButton_6);
 		
-		JLabel lblNewLabel = new JLabel("Bienvenue Sur Pi-APP");
+		JLabel lblNewLabel = new JLabel("Bienvenue sur GestionPi");
 		lblNewLabel.setForeground(new Color(220, 20, 60));
 		lblNewLabel.setFont(new Font("Tahoma", Font.BOLD, 18));
 		lblNewLabel.setBounds(111, 22, 243, 26);

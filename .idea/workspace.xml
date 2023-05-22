@@ -5,142 +5,22 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="75b1ff13-443b-4087-87fb-f2782d6ff83d" name="Changes" comment="init commit">
+      <change beforePath="$PROJECT_DIR$/.classpath" beforeDir="false" afterPath="$PROJECT_DIR$/.classpath" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/projetFederateurF/Actions/Prepare.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/projetFederateurF/Classes/Absences.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/projetFederateurF/Classes/Cours.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/projetFederateurF/Classes/Employee.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/projetFederateurF/Classes/Enseignant.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/projetFederateurF/Classes/Etudiant.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/projetFederateurF/Classes/Groupe.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/projetFederateurF/Classes/Login.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/projetFederateurF/Classes/Matiere.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/projetFederateurF/Classes/Module.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/projetFederateurF/Classes/Note.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/projetFederateurF/Classes/Personne.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/projetFederateurF/Classes/Scolarite.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/projetFederateurF/Classes/Utilisateur.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/projetFederateurF/class.puml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/projetFederateurF/interfacesBD/AccesBDAbscences.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/projetFederateurF/interfacesBD/AccesBDCours.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/projetFederateurF/interfacesBD/AccesBDEnseignant.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/projetFederateurF/interfacesBD/AccesBDEtudiant.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/projetFederateurF/interfacesBD/AccesBDGroupe.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/projetFederateurF/interfacesBD/AccesBDMatiere.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/projetFederateurF/interfacesBD/AccesBDModule.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/projetFederateurF/interfacesBD/AccesBDNote.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/projetFederateurF/interfacesBD/AccesBDUtilisateur.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/projetFederateurF/interfacesBD/diagram.uml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/projetFederateurF/module-info.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/projetFederateurF/view/AjouterAbsences$1.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/projetFederateurF/view/AjouterAbsences$2.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/projetFederateurF/view/AjouterAbsences$3.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/projetFederateurF/view/AjouterAbsences.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/projetFederateurF/view/AjouterEnseignant$1.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/projetFederateurF/view/AjouterEnseignant$2.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/projetFederateurF/view/AjouterEnseignant$3.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/projetFederateurF/view/AjouterEnseignant$4.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/projetFederateurF/view/AjouterEnseignant$5.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/projetFederateurF/view/AjouterEnseignant$6.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/projetFederateurF/view/AjouterEnseignant$7.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/projetFederateurF/view/AjouterEnseignant$8.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/projetFederateurF/view/AjouterEnseignant.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/projetFederateurF/view/AjouterGroupe$1.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/projetFederateurF/view/AjouterGroupe$2.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/projetFederateurF/view/AjouterGroupe$3.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/projetFederateurF/view/AjouterGroupe$4.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/projetFederateurF/view/AjouterGroupe.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/projetFederateurF/view/AjouterNote$1.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/projetFederateurF/view/AjouterNote$2.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/projetFederateurF/view/AjouterNote$3.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/projetFederateurF/view/AjouterNote.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/projetFederateurF/view/GestionDesAbs$1.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/projetFederateurF/view/GestionDesAbs$2.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/projetFederateurF/view/GestionDesAbs$3.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/projetFederateurF/view/GestionDesAbs$4.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/projetFederateurF/view/GestionDesAbs.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/projetFederateurF/view/GestionDesEnseignant$1.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/projetFederateurF/view/GestionDesEnseignant.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/projetFederateurF/view/GestionDesEnseignement$1.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/projetFederateurF/view/GestionDesEnseignement$2.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/projetFederateurF/view/GestionDesEnseignement$3.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/projetFederateurF/view/GestionDesEnseignement.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/projetFederateurF/view/GestionDesEtudiant$1.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/projetFederateurF/view/GestionDesEtudiant$2.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/projetFederateurF/view/GestionDesEtudiant$3.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/projetFederateurF/view/GestionDesEtudiant$4.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/projetFederateurF/view/GestionDesEtudiant$5.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/projetFederateurF/view/GestionDesEtudiant$6.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/projetFederateurF/view/GestionDesEtudiant.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/projetFederateurF/view/GestionDesModule$1.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/projetFederateurF/view/GestionDesModule.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/projetFederateurF/view/GestionDesNotes$1.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/projetFederateurF/view/GestionDesNotes$2.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/projetFederateurF/view/GestionDesNotes$3.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/projetFederateurF/view/GestionDesNotes$4.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/projetFederateurF/view/GestionDesNotes.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/projetFederateurF/view/GestionDesUtilisateur$1.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/projetFederateurF/view/GestionDesUtilisateur.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/projetFederateurF/view/GestionUtilisateur$1.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/projetFederateurF/view/GestionUtilisateur$2.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/projetFederateurF/view/GestionUtilisateur$3.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/projetFederateurF/view/GestionUtilisateur$4.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/projetFederateurF/view/GestionUtilisateur$5.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/projetFederateurF/view/GestionUtilisateur$6.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/projetFederateurF/view/GestionUtilisateur$7.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/projetFederateurF/view/GestionUtilisateur.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/projetFederateurF/view/GestionsDesGroupe$1.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/projetFederateurF/view/GestionsDesGroupe$2.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/projetFederateurF/view/GestionsDesGroupe$3.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/projetFederateurF/view/GestionsDesGroupe$4.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/projetFederateurF/view/GestionsDesGroupe.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/projetFederateurF/view/Inscription$1.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/projetFederateurF/view/Inscription$2.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/projetFederateurF/view/Inscription$3.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/projetFederateurF/view/Inscription.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/projetFederateurF/view/ModifSuppGroupe$1.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/projetFederateurF/view/ModifSuppGroupe$2.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/projetFederateurF/view/ModifSuppGroupe$3.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/projetFederateurF/view/ModifSuppGroupe$4.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/projetFederateurF/view/ModifSuppGroupe$5.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/projetFederateurF/view/ModifSuppGroupe.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/projetFederateurF/view/ModifierEtudiant$1.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/projetFederateurF/view/ModifierEtudiant$2.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/projetFederateurF/view/ModifierEtudiant$3.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/projetFederateurF/view/ModifierEtudiant$4.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/projetFederateurF/view/ModifierEtudiant$5.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/projetFederateurF/view/ModifierEtudiant$6.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/projetFederateurF/view/ModifierEtudiant$7.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/projetFederateurF/view/ModifierEtudiant.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/projetFederateurF/view/ModifierOuSupprimerAbsences$1.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/projetFederateurF/view/ModifierOuSupprimerAbsences$2.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/projetFederateurF/view/ModifierOuSupprimerAbsences$3.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/projetFederateurF/view/ModifierOuSupprimerAbsences$4.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/projetFederateurF/view/ModifierOuSupprimerAbsences$5.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/projetFederateurF/view/ModifierOuSupprimerAbsences$6.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/projetFederateurF/view/ModifierOuSupprimerAbsences.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/projetFederateurF/view/ModifierOuSupprimerNote$1.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/projetFederateurF/view/ModifierOuSupprimerNote$2.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/projetFederateurF/view/ModifierOuSupprimerNote$3.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/projetFederateurF/view/ModifierOuSupprimerNote$4.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/projetFederateurF/view/ModifierOuSupprimerNote$5.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/projetFederateurF/view/ModifierOuSupprimerNote$6.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/projetFederateurF/view/ModifierOuSupprimerNote.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/projetFederateurF/view/MyHomePage$1.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/projetFederateurF/view/MyHomePage$2.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/projetFederateurF/view/MyHomePage$3.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/projetFederateurF/view/MyHomePage$4.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/projetFederateurF/view/MyHomePage$5.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/projetFederateurF/view/MyHomePage$6.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/projetFederateurF/view/MyHomePage$7.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/projetFederateurF/view/MyHomePage.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/projetFederateurF/view/MyLogin$1.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/projetFederateurF/view/MyLogin$2.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/projetFederateurF/view/MyLogin.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/projetFederateurF/view/PlanifierUnCours$1.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/projetFederateurF/view/PlanifierUnCours.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/projetFederateurF.iml" beforeDir="false" afterPath="$PROJECT_DIR$/projetFederateurF.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/interfacesBD/AccesBDAbscences.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/interfacesBD/AccesBDAbscences.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/interfacesBD/AccesBDCours.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/interfacesBD/AccesBDCours.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/interfacesBD/AccesBDEnseignant.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/interfacesBD/AccesBDEnseignant.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/interfacesBD/AccesBDEtudiant.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/interfacesBD/AccesBDEtudiant.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/interfacesBD/AccesBDGroupe.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/interfacesBD/AccesBDGroupe.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/interfacesBD/AccesBDMatiere.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/interfacesBD/AccesBDMatiere.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/interfacesBD/AccesBDModule.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/interfacesBD/AccesBDModule.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/interfacesBD/AccesBDNote.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/interfacesBD/AccesBDNote.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/interfacesBD/AccesBDUtilisateur.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/interfacesBD/AccesBDUtilisateur.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/interfacesBD/diagram.uml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/view/GestionDesEnseignement.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/view/AdministrationPedagojique.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/view/ModifSuppGroupe.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/view/ModifSuppGroupe.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/view/MyHomePage.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/view/MyHomePage.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/view/MyLogin.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/view/MyLogin.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -177,19 +57,19 @@
     &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
     &quot;git-widget-placeholder&quot;: &quot;master&quot;,
     &quot;ignore.virus.scanning.warn.message&quot;: &quot;true&quot;,
-    &quot;last_opened_file_path&quot;: &quot;C:/Users/GUEDRI/Downloads/mysql-connector.jar&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Program Files (x86)/MySQL/Connector J 8.0/mysql-connector-j-8.0.33.jar&quot;,
     &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
     &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
     &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
     &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
-    &quot;project.structure.last.edited&quot;: &quot;Libraries&quot;,
+    &quot;project.structure.last.edited&quot;: &quot;Modules&quot;,
     &quot;project.structure.proportion&quot;: &quot;0.0&quot;,
-    &quot;project.structure.side.proportion&quot;: &quot;0.0&quot;,
+    &quot;project.structure.side.proportion&quot;: &quot;0.2&quot;,
     &quot;settings.editor.selected.configurable&quot;: &quot;preferences.pluginManager&quot;,
     &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.MyHomePage">
+  <component name="RunManager" selected="Application.MyLogin">
     <configuration name="AjouterGroupe" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="view.AjouterGroupe" />
       <module name="projetFederateurF" />
@@ -257,8 +137,8 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.MyHomePage" />
         <item itemvalue="Application.MyLogin" />
+        <item itemvalue="Application.MyHomePage" />
         <item itemvalue="Application.PlanifierUnCours" />
         <item itemvalue="Application.Inscription" />
         <item itemvalue="Application.AjouterGroupe" />
@@ -302,7 +182,8 @@
       <workItem from="1684424383391" duration="182000" />
       <workItem from="1684424574411" duration="392000" />
       <workItem from="1684424971195" duration="187000" />
-      <workItem from="1684425161390" duration="1239000" />
+      <workItem from="1684425161390" duration="21125000" />
+      <workItem from="1684737946893" duration="2803000" />
     </task>
     <task id="LOCAL-00001" summary="init commit">
       <created>1684414004177</created>
@@ -318,7 +199,14 @@
       <option name="project" value="LOCAL" />
       <updated>1684414390152</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="init commit">
+      <created>1684426535672</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1684426535672</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
